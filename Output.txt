@@ -1,0 +1,70 @@
+
+ --------------- ^_^ --------------- 
+
+Test Began at 6/23/2021 4:11:21 PM and ended at 4:12:21 PM
+Trial Length was 60s.
+Subject was moving upwards.
+Test was done in Escalator Mode.
+Subject moved 1.111 meters vertically.
+Subjects head rotated 0 units(?) in total.
+Subject spent 49.75431s on 'Path' blocks.
+
+
+ --------------- ^_^ --------------- 
+
+Test Began at 6/23/2021 4:58:44 PM and ended at 4:59:44 PM
+Trial Length was 60s.
+Subject was moving upwards.
+Test was done in Escalator Mode.
+Subject moved 3.311 meters vertically.
+Subjects head rotated 12.72014 units(?) in total.
+Subject spent 38.69426s on 'Path' blocks.
+
+
+ --------------- ^_^ --------------- 
+
+Test Began at 6/23/2021 5:05:15 PM and ended at 5:06:15 PM
+Trial Length was 60s.
+Subject was moving upwards.
+Test was done in Escalator Mode.
+Subject moved 1.111 meters vertically.
+Subjects head rotated 8.349244 units(?) in total.
+Subject spent 53.92403s on 'Path' blocks.
+
+
+ --------------- ^_^ --------------- 
+
+Nico
+Test Began at 6/24/2021 10:19:31 AM and ended at 10:20:38 AM
+Trial Length was 60s.
+Subject was moving upwards.
+Test was done in Escalator Mode.
+Subject moved 1.111 meters vertically.
+Subjects head rotated 21.81953 units(?) in total.
+Subject spent 51.68784s on 'Path' blocks.
+
+
+ --------------- ^_^ --------------- 
+
+Nico
+Test Began at 6/24/2021 10:59:55 AM and ended at 11:00:56 AM
+Trial Length was 60s.
+Subject was moving upwards.
+Test was done in Escalator Mode.
+Subject moved 1.111 meters vertically.
+Subjects head rotated 11.19855 units(?) in total.
+Subject spent 53.01064s on 'Path' blocks.
+
+
+ --------------- ^_^ --------------- 
+
+Nico
+Test Began at 6/28/2021 11:20:07 PM and ended at 11:21:11 PM
+Trial Length was 60s.
+Subject was moving upwards.
+Test was done in Escalator Mode.
+Subject moved 2.384186E-07 meters vertically.
+Subjects head rotated 1.233824 units(?) in total.
+Subject spent 51.95811s on 'Path' blocks.
+
+Height Guessed was -0.167824 where 1 is exactly correct.
